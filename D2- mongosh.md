@@ -202,7 +202,7 @@ Aggregation is is doing one logical operation then applying another operations u
 
 # **Replica sets in MongoDB**
 
-<img src="../../_resources/bb1a442e18ad7f7d2567a98f603df31e.png" alt="bb1a442e18ad7f7d2567a98f603df31e.png" width="351" height="335" class="jop-noMdConv">
+<img src="images/bb1a442e18ad7f7d2567a98f603df31e.png" alt="bb1a442e18ad7f7d2567a98f603df31e.png" width="351" height="335" class="jop-noMdConv">
 
 - A replica set is a group of MongoDB servers that all maintain the same dataset. One node is the primary, and the others are secondaries. The primary handles all writes; secondaries replicate the data from the primary.
     
@@ -219,7 +219,7 @@ Aggregation is is doing one logical operation then applying another operations u
 
 # **Sharding in MongoDB**
 
-**<img src="../../_resources/1952cb0a3e2fdb244897be4a571c1c23.png" alt="1952cb0a3e2fdb244897be4a571c1c23.png" width="472" height="305" class="jop-noMdConv">**
+**<img src="images/1952cb0a3e2fdb244897be4a571c1c23.png" alt="1952cb0a3e2fdb244897be4a571c1c23.png" width="472" height="305" class="jop-noMdConv">**
 
 **Sharding splits a large dataset into smaller, more manageable pieces called shards, each stored on different servers. Instead of one machine doing all the work, multiple machines share the load.**
 
